@@ -1,6 +1,6 @@
 Title = On A Misty Night
 ComposedBy = Tadd Dameron
-DB Key = Eb
+DBKeySig = Eb
 TimeSig = 4 4
 Bars = 32
  EbM7 Gm7 | Cm7 Gm7 F#m7 Fm7 | Fm7 | Fm7 |
