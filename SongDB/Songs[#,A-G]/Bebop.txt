@@ -1,4 +1,4 @@
-mpTitle = Bebop
+Title = Bebop
 ComposedBy = Dizzy Gillespie
 DBKeySig = C
 TimeSig = 4 4
